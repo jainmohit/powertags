@@ -1,4 +1,4 @@
-# Terraform PowerTag Module Variables
+# Terraform PowerTag EC2 Module Variables
 
 variable "aws_region" {
   description = "AWS region to deploy resources"
